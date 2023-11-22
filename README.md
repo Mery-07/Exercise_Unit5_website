@@ -8,5 +8,12 @@
 </head>
 <body>
     <h1>Hola, Mundo!</h1>
+    <img src ="bonito.jpg" alt="Paisaje">
+    <h1>Bienvenido a Mi Sitio Web</h1>
+<footer>
+    <p>Nombre de la Empresa</p>
+    <p>Contacto: contacto@mail.com</p>
+</body>
+</footer>
 </body>
 </html>
